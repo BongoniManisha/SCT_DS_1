@@ -1,0 +1,23 @@
+Title:
+Task 01: Data Visualization using Bar Chart
+
+Objective:
+To create a bar chart to visualize the distribution of population data.
+
+Dataset Description:
+The dataset contains country-wise population information from the World Bank dataset. The 2022 population column is used for visualization.
+
+Tools Used:
+
+Python
+Pandas
+Matplotlib
+Jupyter Notebook / VS Code
+
+Methodology:
+
+Imported the dataset.
+Cleaned missing values.
+Selected country names and population values.
+Sorted data based on population.
+Created a bar chart.
